@@ -1,0 +1,525 @@
+{
+  "assets": [
+    {
+      "contentType": "image/png",
+      "id": "1a5c14f7c90ae8e1",
+      "kind": "image",
+      "name": "logo5.png",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/1a5c14f7c90ae8e1.png",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/logo5.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5bd39bc4268dde1e",
+      "kind": "image",
+      "name": "nav-fam.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/5bd39bc4268dde1e.jpg",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/nav-fam.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ae2a2e199db70387",
+      "kind": "image",
+      "name": "bar-zakaz-7.png",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/ae2a2e199db70387.png",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/bar-zakaz-7.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e04869def662453c",
+      "kind": "image",
+      "name": "bar-calc-7.png",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/e04869def662453c.png",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/bar-calc-7.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "44e20cd55903d713",
+      "kind": "image",
+      "name": "zak001-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/44e20cd55903d713.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak001-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "92a50b5f71b2f959",
+      "kind": "image",
+      "name": "zak002-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/92a50b5f71b2f959.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak002-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "186f7654d70979b2",
+      "kind": "image",
+      "name": "zak003-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/186f7654d70979b2.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak003-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0885407f678afeb3",
+      "kind": "image",
+      "name": "zak004-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/0885407f678afeb3.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak004-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c5ebb66b1ed4c1d6",
+      "kind": "image",
+      "name": "zak005-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/c5ebb66b1ed4c1d6.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak005-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "764751a343c5b69a",
+      "kind": "image",
+      "name": "zak006-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/764751a343c5b69a.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak006-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9f675ebe05cdd251",
+      "kind": "image",
+      "name": "zak007-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/9f675ebe05cdd251.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak007-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ac4220cdc8da69fe",
+      "kind": "image",
+      "name": "zak009-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/ac4220cdc8da69fe.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak009-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "733ab9d9dae55dcc",
+      "kind": "image",
+      "name": "zak008-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/733ab9d9dae55dcc.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak008-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ede2f7922f06fef8",
+      "kind": "image",
+      "name": "zak010-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/ede2f7922f06fef8.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak010-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b8d1d1485874ac42",
+      "kind": "image",
+      "name": "zak011-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/b8d1d1485874ac42.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak011-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7813c64b8bb647d7",
+      "kind": "image",
+      "name": "zak014-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/7813c64b8bb647d7.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak014-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "fa4828f1547eabd9",
+      "kind": "image",
+      "name": "zak013-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/fa4828f1547eabd9.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak013-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "008aef2f2d8e4aad",
+      "kind": "image",
+      "name": "zak015-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/008aef2f2d8e4aad.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak015-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0bb64b083c2ae949",
+      "kind": "image",
+      "name": "zak016-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/0bb64b083c2ae949.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak016-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "608df9a2f16f07e6",
+      "kind": "image",
+      "name": "zak017-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/608df9a2f16f07e6.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak017-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1e162f8b88ba9201",
+      "kind": "image",
+      "name": "zak018-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/1e162f8b88ba9201.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak018-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "709a89676f5eb03c",
+      "kind": "image",
+      "name": "zak019-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/709a89676f5eb03c.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak019-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5358d81aa84033e1",
+      "kind": "image",
+      "name": "zak021-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/5358d81aa84033e1.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak021-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4df1997b42414d8b",
+      "kind": "image",
+      "name": "zak020-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/4df1997b42414d8b.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak020-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "94d9c301d829f4cb",
+      "kind": "image",
+      "name": "zak022-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/94d9c301d829f4cb.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak022-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "33263e4a4986d3ec",
+      "kind": "image",
+      "name": "zak023-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/33263e4a4986d3ec.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak023-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e4ffd891a2736e7b",
+      "kind": "image",
+      "name": "zak024-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/e4ffd891a2736e7b.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak024-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2bd95869470d7ab9",
+      "kind": "image",
+      "name": "zak026-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/2bd95869470d7ab9.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak026-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d0ed00e15b71b15d",
+      "kind": "image",
+      "name": "zak025-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/d0ed00e15b71b15d.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak025-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b683b9c499c68c39",
+      "kind": "image",
+      "name": "zak028-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/b683b9c499c68c39.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak028-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a1510fa85d8bb5af",
+      "kind": "image",
+      "name": "zak027-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/a1510fa85d8bb5af.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak027-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "95e5e8cc9f1734f8",
+      "kind": "image",
+      "name": "zak029-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/95e5e8cc9f1734f8.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak029-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3b7eaa297ebed836",
+      "kind": "image",
+      "name": "zak030-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/3b7eaa297ebed836.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak030-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "90478c80d67a1af1",
+      "kind": "image",
+      "name": "zak032-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/90478c80d67a1af1.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak032-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1ac44333d9d9fa93",
+      "kind": "image",
+      "name": "zak031-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/1ac44333d9d9fa93.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak031-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d6491a7883d19c9b",
+      "kind": "image",
+      "name": "zak034-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/d6491a7883d19c9b.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak034-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "bcb8d0cde2ba9c36",
+      "kind": "image",
+      "name": "zak033-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/bcb8d0cde2ba9c36.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak033-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "942ae934dd902213",
+      "kind": "image",
+      "name": "zak035-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/942ae934dd902213.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak035-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7e79973fb04e7406",
+      "kind": "image",
+      "name": "zak036-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/7e79973fb04e7406.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak036-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d05a619521e62542",
+      "kind": "image",
+      "name": "zak037-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/d05a619521e62542.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak037-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f1dbb3956f03ce73",
+      "kind": "image",
+      "name": "zak039-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/f1dbb3956f03ce73.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak039-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a5ed7a646144b5f6",
+      "kind": "image",
+      "name": "zak041-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/a5ed7a646144b5f6.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak041-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "43561ff62cacd597",
+      "kind": "image",
+      "name": "zak042-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/43561ff62cacd597.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak042-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "be721e4e427e7b69",
+      "kind": "image",
+      "name": "zak043-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/be721e4e427e7b69.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak043-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f9bdea805abf5a95",
+      "kind": "image",
+      "name": "zak045-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/f9bdea805abf5a95.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak045-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1ad8715d49c2a8b0",
+      "kind": "image",
+      "name": "zak044-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/1ad8715d49c2a8b0.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak044-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9ce3db6bcef60233",
+      "kind": "image",
+      "name": "zak047-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/9ce3db6bcef60233.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak047-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e41b2bdfa98be35f",
+      "kind": "image",
+      "name": "zak046-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/e41b2bdfa98be35f.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak046-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "88c6f4d4c7f226ea",
+      "kind": "image",
+      "name": "zak049-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/88c6f4d4c7f226ea.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak049-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c043286cafefdbae",
+      "kind": "image",
+      "name": "zak048-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/c043286cafefdbae.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak048-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c9b76a46d24f9d9d",
+      "kind": "image",
+      "name": "zak052-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/c9b76a46d24f9d9d.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak052-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ed40f27fd2af05f6",
+      "kind": "image",
+      "name": "zak051-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/ed40f27fd2af05f6.jpg",
+      "url": "https://sof-mebel.ru/images/pic/zak/zak051-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5684c9facac89832",
+      "kind": "image",
+      "name": "br2-aristo.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/5684c9facac89832.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-aristo.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "08f955c68063fb0c",
+      "kind": "image",
+      "name": "br2-komandor.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/08f955c68063fb0c.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-komandor.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d9e66185c5ba3073",
+      "kind": "image",
+      "name": "br2-italum.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/d9e66185c5ba3073.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-italum.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0f30e8fcd0895dcf",
+      "kind": "image",
+      "name": "br2-raumplus.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/0f30e8fcd0895dcf.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-raumplus.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b8bf4174587c535e",
+      "kind": "image",
+      "name": "br2-krono.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/b8bf4174587c535e.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-krono.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ecc987185f0a6e17",
+      "kind": "image",
+      "name": "br2-egger.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/ecc987185f0a6e17.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-egger.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "84c4dc933a1626e8",
+      "kind": "image",
+      "name": "br2-ruslam.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/84c4dc933a1626e8.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-ruslam.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "351babe4d0efa96d",
+      "kind": "image",
+      "name": "br2-skif.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/351babe4d0efa96d.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-skif.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "95051cc20bccaeaf",
+      "kind": "image",
+      "name": "br2-blum.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/95051cc20bccaeaf.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-blum.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "401965c67d0ac62b",
+      "kind": "image",
+      "name": "br2-hettich.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/401965c67d0ac62b.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-hettich.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1024a8c013e795de",
+      "kind": "image",
+      "name": "br2-vibo.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/1024a8c013e795de.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-vibo.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "dc1fdd0aa37a601b",
+      "kind": "image",
+      "name": "br2-arpa.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/dc1fdd0aa37a601b.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-arpa.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4a5ae7051e4750c4",
+      "kind": "image",
+      "name": "zamerchik.png",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/c06d6988-15ec-4be7-904f-fa978dd5dde5/4a5ae7051e4750c4.png",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/zamerchik.png"
+    }
+  ],
+  "failures": []
+}

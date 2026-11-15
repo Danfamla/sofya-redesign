@@ -1,0 +1,3 @@
+/* Демо-маркировка остаётся в кадре при просмотре разделов. */
+.demo-notice{position:sticky;top:86px;z-index:1}
+@media(max-width:800px){.demo-notice{top:67px}}

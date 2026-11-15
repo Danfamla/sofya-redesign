@@ -1,0 +1,365 @@
+{
+  "assets": [
+    {
+      "contentType": "image/png",
+      "id": "1a5c14f7c90ae8e1",
+      "kind": "image",
+      "name": "logo5.png",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/1a5c14f7c90ae8e1.png",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/logo5.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5bd39bc4268dde1e",
+      "kind": "image",
+      "name": "nav-fam.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/5bd39bc4268dde1e.jpg",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/nav-fam.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ae2a2e199db70387",
+      "kind": "image",
+      "name": "bar-zakaz-7.png",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/ae2a2e199db70387.png",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/bar-zakaz-7.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e04869def662453c",
+      "kind": "image",
+      "name": "bar-calc-7.png",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/e04869def662453c.png",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/bar-calc-7.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "cd4cf522f353b33f",
+      "kind": "image",
+      "name": "sten001-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/cd4cf522f353b33f.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten001-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8479b9b9e4fd8892",
+      "kind": "image",
+      "name": "sten002-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/8479b9b9e4fd8892.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten002-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ea6b33de612b6bd5",
+      "kind": "image",
+      "name": "sten003-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/ea6b33de612b6bd5.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten003-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9e5b113dd6f53cf3",
+      "kind": "image",
+      "name": "sten004-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/9e5b113dd6f53cf3.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten004-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "15441d27b631722f",
+      "kind": "image",
+      "name": "sten005-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/15441d27b631722f.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten005-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2f67e1b00afc1fd6",
+      "kind": "image",
+      "name": "sten006-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/2f67e1b00afc1fd6.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten006-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e865f9bdfcecafaf",
+      "kind": "image",
+      "name": "sten007-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/e865f9bdfcecafaf.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten007-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1427ce122bc932ec",
+      "kind": "image",
+      "name": "sten014-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/1427ce122bc932ec.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten014-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6c9cfb84515d886b",
+      "kind": "image",
+      "name": "sten020-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/6c9cfb84515d886b.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten020-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1277f127a1f623e1",
+      "kind": "image",
+      "name": "sten023-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/1277f127a1f623e1.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten023-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a0680dc4738d40ca",
+      "kind": "image",
+      "name": "sten024-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/a0680dc4738d40ca.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten024-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8e442fa608de8962",
+      "kind": "image",
+      "name": "sten025-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/8e442fa608de8962.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten025-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "52fc54f1ce74536e",
+      "kind": "image",
+      "name": "sten026-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/52fc54f1ce74536e.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten026-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3d19b1be0b5c287b",
+      "kind": "image",
+      "name": "sten028-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/3d19b1be0b5c287b.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten028-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b636bb79a922d805",
+      "kind": "image",
+      "name": "sten031-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/b636bb79a922d805.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten031-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "02f5cd6f47b9f60f",
+      "kind": "image",
+      "name": "sten032-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/02f5cd6f47b9f60f.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten032-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9ad7954bf31b8db8",
+      "kind": "image",
+      "name": "sten035-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/9ad7954bf31b8db8.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten035-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "41a5d31873d654fe",
+      "kind": "image",
+      "name": "sten037-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/41a5d31873d654fe.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten037-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3b821cce469b8d91",
+      "kind": "image",
+      "name": "sten038-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/3b821cce469b8d91.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten038-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ab615aa7225ef049",
+      "kind": "image",
+      "name": "sten041-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/ab615aa7225ef049.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten041-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "46c7421d08e3291d",
+      "kind": "image",
+      "name": "sten042-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/46c7421d08e3291d.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten042-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1ee034270d55ebaa",
+      "kind": "image",
+      "name": "sten044-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/1ee034270d55ebaa.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten044-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "09dc622768bf5efe",
+      "kind": "image",
+      "name": "sten046-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/09dc622768bf5efe.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten046-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1430131878b73d15",
+      "kind": "image",
+      "name": "sten047-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/1430131878b73d15.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten047-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "dc7c36edc17414de",
+      "kind": "image",
+      "name": "sten049-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/dc7c36edc17414de.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten049-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "eede12b125894180",
+      "kind": "image",
+      "name": "sten051-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/eede12b125894180.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten051-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "246b61388fcb2c13",
+      "kind": "image",
+      "name": "sten053-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/246b61388fcb2c13.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten053-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4655f978a721e7e2",
+      "kind": "image",
+      "name": "sten054-s.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/4655f978a721e7e2.jpg",
+      "url": "https://sof-mebel.ru/images/pic/sten/sten054-s.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5684c9facac89832",
+      "kind": "image",
+      "name": "br2-aristo.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/5684c9facac89832.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-aristo.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "08f955c68063fb0c",
+      "kind": "image",
+      "name": "br2-komandor.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/08f955c68063fb0c.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-komandor.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d9e66185c5ba3073",
+      "kind": "image",
+      "name": "br2-italum.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/d9e66185c5ba3073.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-italum.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0f30e8fcd0895dcf",
+      "kind": "image",
+      "name": "br2-raumplus.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/0f30e8fcd0895dcf.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-raumplus.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b8bf4174587c535e",
+      "kind": "image",
+      "name": "br2-krono.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/b8bf4174587c535e.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-krono.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ecc987185f0a6e17",
+      "kind": "image",
+      "name": "br2-egger.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/ecc987185f0a6e17.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-egger.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "84c4dc933a1626e8",
+      "kind": "image",
+      "name": "br2-ruslam.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/84c4dc933a1626e8.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-ruslam.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "351babe4d0efa96d",
+      "kind": "image",
+      "name": "br2-skif.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/351babe4d0efa96d.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-skif.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "95051cc20bccaeaf",
+      "kind": "image",
+      "name": "br2-blum.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/95051cc20bccaeaf.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-blum.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "401965c67d0ac62b",
+      "kind": "image",
+      "name": "br2-hettich.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/401965c67d0ac62b.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-hettich.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1024a8c013e795de",
+      "kind": "image",
+      "name": "br2-vibo.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/1024a8c013e795de.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-vibo.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "dc1fdd0aa37a601b",
+      "kind": "image",
+      "name": "br2-arpa.jpg",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/dc1fdd0aa37a601b.jpg",
+      "url": "https://sof-mebel.ru/images/brands/br2-arpa.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4a5ae7051e4750c4",
+      "kind": "image",
+      "name": "zamerchik.png",
+      "path": "C:\\Users\\User\\AppData\\Local\\Temp/browser-use/assets/aa89ab9e-f2b3-40a8-8d59-99a9d8bb90c7/4a5ae7051e4750c4.png",
+      "url": "https://sof-mebel.ru/wp-content/themes/softheme/images/zamerchik.png"
+    }
+  ],
+  "failures": []
+}

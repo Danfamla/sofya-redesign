@@ -1,0 +1,6 @@
+/* Точечные улучшения: сохраняют исходную визуальную систему. */
+.hero figure{min-height:440px;max-height:520px}
+.cards{grid-template-columns:repeat(4,minmax(0,1fr))}
+.cards img{aspect-ratio:.9}
+.catalog-note{max-width:500px;margin:28px 5.5vw 0;font-size:11px;color:#776d61}
+@media(max-width:800px){.hero figure{min-height:360px;max-height:420px}.cards{grid-template-columns:1fr 1fr}.catalog-note{margin-left:3vw}}
